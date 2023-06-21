@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/google_mobile_ads/intermediates/merged_res/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/65bbd3b6893f0560a21945eda8ac2759/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    }
+]

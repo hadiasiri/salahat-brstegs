@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/url_launcher_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1305489394/android.path_provider_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1626203029/android.share_plus.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-840732280/android.url_launcher_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1207317979/android.webview_flutter_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1592834644/io.flutter.plugins.firebase.core.android.firebase_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1683750551/io.flutter.plugins.googlemobileads.android.google_mobile_ads.unitTest.iml" />
+    </modules>
+  </component>
+</project>

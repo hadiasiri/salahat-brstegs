@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/path_provider_android/intermediates/merged_res/release/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

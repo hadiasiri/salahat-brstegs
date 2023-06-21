@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/firebase_core/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/firebase_core/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/firebase_core/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/hadiasiri/Desktop/My Apps Flutter/Saleh-no- notification/build/firebase_core/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/hadiasiri/.gradle/caches/transforms-3/eaf7311e38b1045bb48ca720ceb5b3ad/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]

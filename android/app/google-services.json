@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "56435830613",
+    "project_id": "com.hadiasiri.salahat-hadi",
+    "storage_bucket": "com.hadiasiri.salahat-hadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56435830613:android:17020b3bedf6e222ed89dc",
+        "android_client_info": {
+          "package_name": "com.hadiasiri.salahat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56435830613-2djj9lr2naii60mm7s63furo0fsvseqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8dpdoCpc0YIJoUR98bUcM6IInZNW8hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56435830613-2djj9lr2naii60mm7s63furo0fsvseqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56435830613-i6640mr0b3gdhfngmifcvhl68o1pdk46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hadiasiri.salahat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
